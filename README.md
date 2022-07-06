@@ -15,4 +15,4 @@ Determine the number of retiring employees per title, and identify employees who
 ![image](https://user-images.githubusercontent.com/105116310/177440391-92ec7823-b002-443b-9420-bd1272caf261.png)
 
 ## Summary
-In preparation for the “silver tsunami” there are an expected 90,398 employees reaching retirement age. Currently, there are only 1,549 employee who are mentor eligible. Boddy's company will need to embark in a massive hiring spree inorder to fill the upcoming vacant positions. 
+In preparation for the “silver tsunami” there are an expected 90,398 employees reaching retirement age. Currently, there are only 1,549 employee who are mentor eligible. Bobby's company will need to embark in a massive hiring spree inorder to fill the upcoming vacant positions. 
